@@ -1380,11 +1380,11 @@ window.VI_DATA = {
   {
    "kind": "cloud",
    "title": "源文件",
-   "meta": "PSD / AI / PPTX · 约 1.0 GB",
-   "desc": "全部可编辑源文件：61 个 PSD、18 个 AI、6 套 PPT 模版与手册 Word 版，合计约 1.0 GB。因体积较大，通过学院网盘提供。",
-   "href": "",
+   "meta": "百度网盘 · 约 1.0 GB · 提取码 bmhk",
+   "desc": "全部可编辑源文件：61 个 PSD、18 个 AI、6 套 PPT 模版与手册 Word 版，合计约 1.0 GB。链接指向百度网盘，提取码 bmhk。",
+   "href": "https://pan.baidu.com/s/1DgJVgiDBvE22Tsw8UozYcQ?pwd=bmhk",
    "file": "",
-   "action": "网盘链接待填写"
+   "action": "前往网盘下载"
   }
  ]
 };
